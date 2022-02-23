@@ -1,0 +1,21 @@
+body {
+    background-color: rgb(212, 247, 212);
+}
+
+#formulario-perguntar {
+    margin-top: 5vh;
+}
+
+.posicao-navbar {
+    margin-left: 50px;
+}
+
+.menu {
+    text-decoration: none;
+    color: black;
+    font-size: 20px;
+}
+.menu:hover {
+    color:rgb(255, 255, 255);
+    text-decoration: none;
+}
